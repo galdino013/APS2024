@@ -109,8 +109,11 @@ Certifique-se de ter o **Python 3.x** instalado e de que todas as dependências 
 - **Lukas Andrade Nascimento**
 - **Pedro Henrique de Souza Putinatti**
 
-## 📄 Licença
 
-Este projeto foi desenvolvido para fins acadêmicos e não possui uma licença específica.
+## 📜 Créditos e Licença
+
+Este projeto utiliza código do repositório [Fingerprint-Enhancement-Python](https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python), desenvolvido por Utkarsh Deshmukh.  
+
+O código original está licenciado sob a **BSD 2-Clause License**, disponível [aqui](https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python/blob/master/LICENSE).
 ---
 Desenvolvido como parte do projeto acadêmico da Universidade Paulista – UNIP 🎓
